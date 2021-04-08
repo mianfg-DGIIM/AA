@@ -4,7 +4,7 @@
 
 # `AA` Aprendizaje Automático (_Machine Learning_)
 
-| Nombre                | Fundamentos de Programación                                  |
+| Nombre                | Aprendizaje Automático                                       |
 | --------------------- | ------------------------------------------------------------ |
 | Abreviatura           | `AA`                                                         |
 | Grado correspondiente | Ingeniería Informática                                       |
