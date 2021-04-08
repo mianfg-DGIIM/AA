@@ -2,7 +2,7 @@
 
 ![Repo image](https://repository-images.githubusercontent.com/355978535/87766180-989a-11eb-80b9-c14a45d30cf7)
 
-# `FP` Fundamentos de Programación
+# `AA` Aprendizaje Automático (_Machine Learning_)
 
 | Nombre                | Fundamentos de Programación                                  |
 | --------------------- | ------------------------------------------------------------ |
