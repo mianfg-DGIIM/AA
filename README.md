@@ -1,4 +1,4 @@
-[⬅ Más asignaturas del DGIIM](https://github.com/mianfg/DGIIM)
+[⬅ Más asignaturas del DGIIM](https://github.com/mianfg/DGIIM) | [`EN` Read in English](./README.en.md)
 
 ![Repo image](https://repository-images.githubusercontent.com/355978535/87766180-989a-11eb-80b9-c14a45d30cf7)
 
