@@ -14,7 +14,7 @@ La estrategia que seguiremos es la siguiente:
 4. Analizar los resultados y estimar el error del modelo.
 5. Sacar conclusiones del desempeño de nuestro modelo.
 
-Para la implementación haremos uso principalmente de las funciones de `scikit-learn`, que se especifican en [la memoria](./PF-memoria.py). 
+Para la implementación haremos uso principalmente de las funciones de `scikit-learn`, que se especifican en [la memoria](./PF-memoria.pdf). 
 
 ---
 
