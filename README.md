@@ -1,6 +1,6 @@
-[⬅ Más asignaturas del DGIIM](https://github.com/mianfg/DGIIM) | [`EN` Read in English](./README.en.md)
+[⬅ Más asignaturas del DGIIM](https://github.com/mianfg-DGIIM)
 
-![Repo image](https://repository-images.githubusercontent.com/355978535/87766180-989a-11eb-80b9-c14a45d30cf7)
+![Repo image](https://repository-images.githubusercontent.com/355978535/9a214566-eb3a-4285-aa09-07d3a07bdcfe)
 
 # `AA` Aprendizaje Automático (_Machine Learning_)
 
